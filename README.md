@@ -100,4 +100,4 @@ Raw race-result exports are intentionally excluded from this repository. The pro
 
 ## Background
 
-This project was developed as a final-year Computer Science & Software Engineering project focused on building a multi-source running-results dataset and using it to investigate participation and performance patterns in Irish running events.
+This project focuses on building a multi-source running-results dataset and using it to investigate participation and performance patterns in Irish running events.

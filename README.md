@@ -1,6 +1,6 @@
 # Irish Running Event Data Analysis
 
-An end-to-end Python data pipeline for collecting, cleaning, storing and analysing Irish running results from multiple public race-result sources. The project processed **50,000+ race records** and used PostgreSQL-backed analysis to explore participation trends, performance standards, demographic patterns and changes across events and years.
+Developed an end-to-end Python data pipeline that collected, cleaned, stored and analysed over 50,000 Irish running results using PostgreSQL. The project aimed to identify participation trends, performance standards and demographic patterns, while also exploring how these findings could provide insights into population health and fitness levels over time.
 
 ## What the project does
 
